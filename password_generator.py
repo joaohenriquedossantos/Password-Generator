@@ -23,4 +23,4 @@ def generate_password():
     
   return password
 
-print(generate_password())
+print(f'Your safe password is: {generate_password()} \n')
